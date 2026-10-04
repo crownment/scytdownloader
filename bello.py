@@ -388,7 +388,7 @@ def youtubemusicblahblfefefok32r():
     is_playlist = singleorplaylistlol("YouTube Music")
 
     print()
-    url = input("Enter YouTube Music URL: ").strip()
+    url = input("URL: ").strip()
 
     if not url:
         return
